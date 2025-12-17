@@ -1,0 +1,7 @@
+anthropic>=0.39.0
+openai>=1.54.0
+python-dotenv>=1.0.0
+mcp>=1.0.0
+gradio>=3.0.0
+deepeval>=0.21.0
+pandas>=2.0.0
